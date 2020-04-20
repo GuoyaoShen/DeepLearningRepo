@@ -14,3 +14,4 @@ This part mainly works with images. Including traditional image classifier, tran
   means we can use the coded vector to interpolate between two images. Below shows an example of this.
 ![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE_interpolation_eg.png "VAE Interpolation original images")
 ![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE_interpolation.png "VAE Interpolation")
+![demo](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE-Reconstruction-Interpolation.gif "VAE Interpolation demo")
