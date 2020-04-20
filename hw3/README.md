@@ -1,4 +1,4 @@
-# HW3
+# Part3
 This part mainly works with images. Including traditional image classifier, transfer learning, CAE, VAE and GAN.
 ## CAE
 * CAE structure
