@@ -1,2 +1,2 @@
-# DeepLearningRepo
-This is a repo corresponding to CIS522, Deep Learning
+# Part1
+Basic warmup with scikit-learn and pytorch
