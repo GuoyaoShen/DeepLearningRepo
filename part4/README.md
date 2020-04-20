@@ -1,2 +1,2 @@
-# Part2
-This part mainly works with network diagnoise, with fashion-MNIST as dataset.
+# Part4
+This part mainly works with text, including RNN, self-attention model, transfer learning and seq2seq model.
