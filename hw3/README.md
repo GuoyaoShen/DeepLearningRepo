@@ -1,2 +1,14 @@
-# DeepLearningRepo
-This is a repo corresponding to CIS522, Deep Learning
+# HW3
+This part mainly works with images. Including traditional image classifier, transfer learning, CAE, VAE and GAN.
+## CAE
+![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/CAE_structure.png "CAE Structure")
+CAE reconstruction examples
+![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/CAE_reconstruction.png "CAE Reconstruction")
+## VAE
+![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE_structure.png "VAE Structure")
+CAE reconstruction examples
+![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE_reconstruction.png "VAE Reconstruction")
+  One of the many useful qualities of a VAE is that the resulting code vector has interpretable properties, which
+  means we can use the coded vector to interpolate between two images. Below shows an example of this.
+![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE_interpolation_eg.png "VAE Interpolation original images")
+![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/hw3/figs/VAE_interpolation.png "VAE Interpolation")
