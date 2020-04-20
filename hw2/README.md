@@ -1,2 +1,2 @@
-# DeepLearningRepo
-This is a repo corresponding to CIS522, Deep Learning
+# Part2
+This part mainly works with network diagnoise, with fashion-MNIST as dataset.
