@@ -10,6 +10,7 @@ CAE reconstruction examples
 ![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/part3/figs/CAE_reconstruction.png "CAE Reconstruction")
 ## VAE
 VAE structure
+
 ![](https://github.com/GuoyaoShen/DeepLearningRepo/blob/master/part3/figs/VAE_structure.png "VAE Structure")
 
 CAE reconstruction examples
